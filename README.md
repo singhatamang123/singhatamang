@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Singha Tamang:
 Hi, I’m Singha — a proactive developer who loves coding and mathematics. I thrive on solving problems, building creative applications, and exploring how technology can empower people.<br><br>Outside of tech, I’m passionate about football and enjoy playing guitar, both of which keep me balanced and remind me that life is meant to be fun and expressive. I believe in living with curiosity, creativity, and energy — whether I’m writing code, learning new frameworks, or jamming with friend
 
 
